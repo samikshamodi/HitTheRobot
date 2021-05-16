@@ -1,7 +1,7 @@
-# HitTheRobot
+# Hit The Robot
 Created an augmented reality app where you can place a robot anywhere in your room and shoot balls at it without worrying about breaking anything XD 
 
-Built using Unity and Vuforia for Android devices. You can download the apk from the source files above or using this [link](https://drive.google.com/drive/folders/1Cy7CGa-45IZNT1QNXNmLcjQuwi0-et2M?usp=sharing)  
+Built using Unity and ARCore for Android devices. You can download the apk from the source files above or using this [link](https://drive.google.com/drive/folders/1Cy7CGa-45IZNT1QNXNmLcjQuwi0-et2M?usp=sharing)  
 Note: It only runs on android device which support augmented reality. You can read [this article](https://www.dignited.com/60048/how-to-know-if-your-smartphone-supports-augmented-reality-ar/#:~:text=Go%20to%20the%20Play%20store,the%20list%20of%20supported%20devices.) to find out how to check if your device supports augmented reality.
 
 Watch the demo:
